@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "edTodo"
+    }
+  },
+  "defaultProject": "edTodo",
+  "cli": {
+    "analytics": "8cfc8a7b-caee-4807-b4f4-aa137ac1ac1c"
+  }
 }
